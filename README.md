@@ -8,4 +8,4 @@ For more information check the CHI 2019 paper: "VirtualComponent: a Mixed-Realit
 ![Hardware parts](https://github.com/makinteract/VirtualComponent/blob/master/Images/hw_overview.png)
 
 ## Video
-[![Watch the video](https://github.com/makinteract/VirtualComponent/blob/master/Images/video.png)](https://www.youtube.com/watch?v=53sC2-OyS2c&feature=youtu.be)
+[![Watch the video](https://github.com/makinteract/VirtualComponent/blob/master/Images/video.png)](https://youtu.be/xeq6MhjG2Vs)
